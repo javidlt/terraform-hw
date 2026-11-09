@@ -1,0 +1,4 @@
+account_id       = "your-cloudflare-account-id"
+api_token        = "your-cloudflare-api-token"
+worker_name      = "practica11-worker"
+d1_database_name = "practica11-db"
